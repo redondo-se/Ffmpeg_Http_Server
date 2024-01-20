@@ -25,7 +25,7 @@ This url will transcode the OTA mpeg2 by using Nvidia cuvid to decode the stream
 ## Installation
 
  - Ensure that you have a working version of ffmpeg.exe in c:\ffmpeg
- - Extract the contents of the archive to a folder
+ - Place the Ffmpeg_Http_Server.exe in a folder of your choosing
  - Run the executable to start the HTTP server
  - The first time you run the executable you will be given a command that you must run as administrator to allow the .Net framework to run the HTTP server on the specified port:
  
