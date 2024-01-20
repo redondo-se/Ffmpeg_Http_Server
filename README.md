@@ -1,5 +1,5 @@
 # Ffmpeg_Http_Server
-A C# .Net http server specifically for using FFmpeg to transcode video on the fly.
+A C# .Net HTTP server specifically for using FFmpeg to transcode video on the fly.
 
 
 # More Info
